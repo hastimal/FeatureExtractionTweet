@@ -1,0 +1,633 @@
+Early Postoperative Ambulation:
+Back to Basics
+A quality improvement project increases postoperative
+ambulation and decreases patient complications.
+The ambulation of patients soon after surgery,
+now a fundamental part of nursing care,
+wasn’t common practice until the middle
+of the past century. In an article published in 1949,
+D. J. Leithauser, a Detroit surgeon, stated, “Ten
+years ago early ambulation was considered a ‘crackpot’
+idea. Today, it is recognized and is rapidly approaching
+a ‘must’ procedure following a surgical
+operation.”1 Indeed, the practice of having patients
+walk as soon as possible after surgery constituted
+a major change in patient care, based on then new
+evidence of the benefits of exercise and its positive
+impact on patient recovery. Since then, facilitating
+ambulation has been considered an important part
+of excellent nursing care, particularly in postoperative
+patients.
+Despite the widespread belief that early ambulation
+promotes surgical recovery, when we attempted
+to research the subject we found little evidence to support
+this nursing practice. To our surprise, we found
+only one published study on the effect of ambulation
+alone on postoperative ileus, and the findings did not
+support the use of early ambulation as a means of increasing
+gut motility.2
+ Early ambulation after surgery
+has been included as part of multimodal, fast-track,
+or enhanced recovery after surgery (ERAS) perioperative
+programs. Although many small studies have
+reported reduced complication rates or lengths of
+stay with fast-track programs,3-5 a recent Cochrane
+review found that the evidence was not of sufficiently
+high quality to justify implementing a fast-track or
+ERAS program as standard care.6
+ (It should be noted
+that there seems to be no consensus among published
+studies on the exact definition of early ambulation;
+in our institution, the term refers to patients getting
+out of bed and walking on the day of surgery, and
+patients are told before surgery to expect this.)
+As health care has evolved, technology has come
+to play an ever-greater role in nursing care; as a result,
+computers are now prominent at the bedside.
+The current focus on improving outcomes requires
+not only that nursing care be provided in a timely
+manner, but also that it be documented in the medical
+record as quickly and accurately as possible. However,
+with decreasing lengths of stay and increasing
+requirements placed on nurses, time to perform basic
+nursing care is limited. As Storfjell and colleagues
+demonstrated, many nurses spend more than half
+their time in non–direct care activities.7
+At our institution, there were two problems related
+to postoperative ambulation. First, patients
+were informed before surgery that they would be expected
+to get out of bed and ambulate the day of surgery,
+but because of other demands on nursing time,
+nurses and nursing assistants were not always able
+to accomplish early ambulation. Therefore, some patients
+who didn’t receive the expected assistance in
+ambulating complained, and physical therapists who
+received some of these patients’ requests for ambulation
+assistance objected, because this is a standard
+nursing function. Second, although there were a variety
+of areas within the nursing documentation system
+to document ambulation, none was readily viewable
+by other providers who needed to know this information.
+We addressed both problems in the quality
+improvement intervention described here.
+Nursing case managers, information technology
+staff, nursing administrators, and unit leaders agreed
+to work together to make patient ambulation a higher
+priority. The project team developed and implemented
+several information technology strategies, described
+below, to improve ambulation and its documentation
+specifically on the colorectal and urologic general
+surgery units. Administrative data on complications,
+length of stay, and cost of care were used to evaluate
+the impact of increased ambulation on surgical recovery.
+METHODS
+This project employed a variety of strategies to change
+nursing practice related to early postoperative ambulation
+and its documentation. The outcomes of this
+project were identified in the literature on postoperative
+ambulation and included complications, length of
+By Valerie A. Kibler, RN, NP, Rachel M. Hayes,
+PhD, RN, Dana E. Johnson, BSN, RN, Laura
+W. Anderson, BA, RN, Shari L. Just, BSN, RN,
+and Nancy L. Wells, DNSc, RN, FAAN
+64 AJN ? April 2012 ? Vol. 112, No. 4 ajnonline.com
+CULTIVATING QUALITY
+stay, and cost. The impact of the intervention was
+examined using a preintervention–postintervention
+design. Comparisons were also made with control
+units.
+Setting. The project was conducted at Vanderbilt
+University Medical Center, a 918-bed academic medical
+center in Nashville, Tennessee, with a commitment
+to information technology. The intervention was implemented
+on four surgical units with a total of 60
+beds. Evaluation data were obtained from patients
+with specific diagnosis-related groupings (DRGs)
+pertaining to colorectal and urologic surgeries, the
+predominant patient populations on the four intervention
+units. Patients with the same DRGs who received
+care on other units served as controls.
+Sample. To evaluate the impact of the program,
+we compared documentation, distance ambulated,
+and patient outcomes for six months before the intervention
+(July through December 2008) and six
+months after (July through December 2009). In
+January 2009, the intervention strategies were implemented.
+
+There was a six-month “washout” period from
+January 1 to July 1, 2009 to match study time frames,
+establish the new nursing practice, and reduce any
+possibility of a Hawthorne effect. All patients admitted
+for colorectal and urologic surgeries without
+contraindications for progressive ambulation (such
+as physician-ordered bed rest, paralysis, or spina bifida)
+were included in the analysis.
+Intervention. The interventions used to increase
+ambulation and improve documentation included
+revising evidence-based orders, measuring and posting
+distances on the four general postsurgical nursing
+units, creating fields in the electronic medical
+record (EMR) to display ambulation distances, educating
+staff on the benefits of early ambulation and
+the necessity of proper documentation, and extending
+the functionality of an existing dashboard application
+(known as a whiteboard) that appears on all
+computer screens and provides easy monitoring of
+documented patient ambulation.
+The team that implemented the intervention consisted
+of the six nurses who are coauthors of this article.
+Two RN case managers in the colorectal and
+urologic surgical units (DEJ, LWA) began the project
+by enlisting the other providers. In addition to the two
+case managers, the team included two doctorally prepared
+nurses (RMH, NLW), an evidence-based medicine
+specialist (SLJ), and a systems support specialist
+Table 1. Staff Education Strategies
+Educator Strategy Timetable
+Systems support services
+representative
+Showed nurses where within the nursing record to document
+ambulation (information entered in this field appears as colorcoded
+indicators on the computer whiteboard, so staff can see
+ambulation reminders)
+1 hour
+Systems support services
+representative
+Printed screenshots of PowerPoint slides showing ambulation
+documentation in the nursing documentation system and posted
+them on bulletin boards in staff break rooms for reference
+1 hour
+Physical therapy department Measured individual distances per unit and put them on small
+laminated cards applied to computers for reference
+3 hours
+Electronic medical record
+programmers
+Added ambulation indicator to computerized whiteboard
+display to allow viewing on all computer screens
+1 week
+Case managers, systems support
+services representative
+Presented education and project goals to nursing staff at staff
+meetings
+20 minutes per session
+Case managers, systems support
+services representative
+Held one-on-one discussions with nursing staff who couldn’t
+attend staff meetings
+5–10 minutes per
+discussion
+Case managers, systems support
+services representative
+Repeated rounding to engage nursing staff in project and
+answer questions as needed
+5–10 minutes,
+3–4 times per week
+Case managers, systems support
+services representative, unit
+charge nurses
+Organized celebration for staff after completion of project; charge
+nurses displayed posters and provided candy to all nursing staff
+on pilot units for one week in recognition of their participation
+3 hours for planning
+and preparation
+ajn@wolterskluwer.com AJN ? April 2012 ? Vol. 112, No. 4 65
+(VAK). The systems support specialist assisted nursing
+staff with computerized documentation systems
+and worked with all members of the patient care team
+to increase efficiency and seamlessly incorporate computerized
+applications into their workflow.
+Literature search. The work began with a literature
+search on the effects of ambulation on postsurgical
+patient outcomes, using the following PubMed
+Medical Subject Headings (MeSH) terms: early ambulation,
+abdomen/surgery, postoperative care/adverse
+effects, postoperative complications, ileus/prevention
+and control, and colorectal surgery. The literature
+suggested that ambulation, in conjunction with other
+postsurgical interventions, may produce positive outcomes.
+The single study that tested only postoperative
+ambulation reported no positive effect on recovery
+of gastric motility in a small sample (N = 34), but
+still encouraged its use because it helps prevent deep
+vein thrombosis and muscle atrophy, among other
+beneficial effects.2
+ Based on the literature, we determined
+that early postoperative ambulation was a safe
+practice (none of the studies that examined early ambulation
+in combination with other strategies to promote
+postoperative recovery reported any adverse
+events) and may lead to improved patient outcomes,
+such as fewer complications, shorter lengths of stay,
+and lower costs of care.
+Documentation of ambulation. The team modified
+the provider order sets within the computerized
+provider order entry system to state definitively that
+nurses must not only ambulate their patients but
+also accurately document ambulation in measured
+distances. To achieve this, the physical therapy department
+measured the distances between common
+landmarks on the nursing units, such as the distance
+from a patient’s bed to the bathroom, from the bed
+to the door, and the length of a complete circuit of
+the unit, and then listed these distances on laminated
+cards that could be displayed beside the computers
+used for nurse charting.
+The systems support specialist proposed the use
+of computerized reminders to help nursing staff document
+ambulation in a consistent manner and collaborated
+with the facility’s EMR programming team
+to add an ambulation indicator to the existing whiteboard
+that displays updated patient information from
+the EMRs, such as new order sets, laboratory test results,
+Braden Scale scores, and fall risk.8
+ The indicators
+turn yellow at 7 am and 7 pm to remind nurses
+on the new shift that ambulation documentation is
+needed. A red indicator means that ambulation hasn’t
+been documented since noon or midnight of the previous
+shift. A green indicator means that ambulation
+documentation is up to date. There are two versions
+of the whiteboard: a version that’s compliant with the
+Health Insurance Portability and Accountability Act
+that doesn’t contain patients’ full names and that appears
+on the computer screen when no one is actively
+working at a given workstation, and another
+“authenticated” version with identifying information
+that appears when a care provider logs in to
+the system.
+Staff education. The case managers and the systems
+support specialist educated nursing staff on the
+intervention units using a variety of strategies aimed
+at encouraging nurses to meet the ambulation standard
+of care (see Table 1). Staff education included the
+project objectives (improved patient outcomes and
+patient involvement in the team-based recovery effort),
+the benefits of early ambulation (improved circulation
+and bowel function), and the importance
+of accurate documentation of distances ambulated
+to quantify patients’ progress. Each educational session
+lasted no longer than an hour.
+The planning, the implementation of technologies,
+and the initial staff training were completed
+within three months. Changes to clinical care began
+in January 2009. After the first hour-long meeting
+to initiate the intervention, the team met twice more
+after two and four weeks (days 14 and 28) to discuss
+feedback from nursing staff and other providers, track
+progress, identify problems, and develop solutions to
+keep the project on course. Process questions arose:
+for example, early in the implementation it was unclear
+whether the nurse or the nursing assistant was
+responsible for documenting ambulation (in practice,
+whoever helps the patient ambulate—usually the
+nursing assistant—should document it). To help sustain
+the change in nursing practice, meetings were
+held as needed to discuss issues that interfered with
+early ambulation and documentation (we currently
+Figure 1. Percentage of Patients with Documented Ambulation
+on Intervention and Control Units
+Percentage of patients with documented ambulation
+0 20 40 60 80 100
+46%
+49.2%
+61.9%
+95.6%
+Control unit Intervention
+unit
+Preintervention
+Postintervention
+Preintervention
+Postintervention
+66 AJN ? April 2012 ? Vol. 112, No. 4 ajnonline.com
+CULTIVATING QUALITY
+educate new staff members on the process as part of
+their orientation).
+As they had done prior to the intervention, nurses
+continued to provide preoperative education on early
+postoperative ambulation to patients in the clinic before
+admission for surgery and on the colorectal and
+urologic general surgery units when patients were preparing
+for surgery.
+Evaluation. We compared documented ambulation
+and outcomes (complications, length of stay,
+cost) before and after the improvement project to
+evaluate the impact of the project on nursing practice
+and patient outcomes. Were nurses more likely to
+have their patients ambulate after the intervention?
+Did their patients have better outcomes? Did documentation
+of ambulation improve?
+Nursing documentation of ambulation, patient
+demographics, diagnosis and procedure codes, cost,
+and length of stay were abstracted from the EMR and
+administrative data systems. Estimates of patient acuity
+(mild, moderate, severe, extreme) and expected
+hospital lengths of stay were obtained from the University
+HealthSystem Consortium (www.uhc.edu),
+which uses administrative data from academic medical
+centers to produce external benchmarks.
+Periodically, we sought comments from project
+participants, including nurses, nursing assistants, patients,
+other providers, and administrators to provide
+insight into the challenges and benefits of the program.
+We used an internal accounting system to compare
+the costs of care among patients with and without
+postoperative paralytic ileus. Daily postoperative
+treatment costs among patients in both groups were
+similar, but median length of stay was six days longer
+in those who developed the condition. Postoperative
+patients with one complication are at increased risk
+for further complications, and the independent costs
+of treating isolated paralytic ileus could not be readily
+extracted. Based on the costs associated with longer
+lengths of stay, we conservatively estimated the cost
+of treating a case of paralytic ileus at $5,800.
+Analysis. We used multivariate linear regression
+analysis to estimate the independent effect of the ambulation
+intervention on length of stay and cost; we
+also used logistic regression analysis to estimate the
+independent effect of the intervention on complications.
+We included an interaction term to analyze the
+combined effect of time period (preintervention versus
+postintervention) and patient unit (intervention
+group versus control group) on patient outcomes.
+This method controls for both time period and exposure
+to the intervention. We further adjusted the
+model for patient age, sex, acuity, colorectal versus
+urologic surgery, expected length of stay, unit, and
+time period. This was an intention-to-treat analysis
+(all patients who had these surgeries and who were
+assigned to the participating units were included in
+the analysis; no patients were eliminated, even if they
+didn’t or couldn’t ambulate). Statistical analyses were
+performed with R statistical software, version 2.11.0.
+Level of significance was P = 0.05.
+RESULTS
+There were 1,878 colorectal and urologic surgery
+patients in the preintervention period and 1,748 in
+the postintervention period. Median patient age was
+56 years, and 58% of patients had colorectal surgery.
+More patients in the postintervention period were
+classified as moderately or severely ill and fewer as
+mildly or extremely ill (see Table 2). The expected improvement
+was observed on intervention units, where
+the proportion of patients with documented ambulation
+increased from 62% before the intervention to
+96% afterward, while documented ambulation on
+control units remained unchanged (see Figure 1). In
+the postintervention period, the total documented
+distance ambulated on the intervention units also increased
+significantly, from 176 feet per patient day
+to 264 feet per patient day. Despite the increased
+ambulation on the intervention units, there was no
+increase in patient falls reported from the preintervention
+to the postintervention period.
+Figure 2. Preintervention and Postintervention Rates of Paralytic
+Ileus by Number of Postoperative Days on Intervention Units
+Postoperative days on intervention units
+Odds of paralytic ileus
+Preintervention
+Postintervention
+0
+0.2
+0.4
+0.6
+0.8
+1
+0 2 4 6 8 10
+The number of postoperative days spent on an intervention unit was significantly associated
+with a decreased risk of paralytic ileus during the postintervention period (P = 0.003).
+ajn@wolterskluwer.com AJN ? April 2012 ? Vol. 112, No. 4 67
+Overall complication rates in all colorectal and
+urologic surgical patients decreased from the preintervention
+to the postintervention period, despite that
+more patients were considered moderately or severely
+ill in the postintervention period. However, while we
+saw declines in complications on both control and
+intervention units, only the decrease in the rate of
+paralytic ileus among patients on the intervention
+units, from 7.3% to 4.6% (a 37% decrease), was
+statistically significant (P = 0.04) (see Table 3). Using
+a multiple logistic regression model that estimated
+the independent effect of the intervention on paralytic
+ileus, time on an intervention unit was significantly
+associated with a decreased risk of paralytic
+ileus during the postintervention period (P = 0.003)
+after adjusting for expected hospital length of stay,
+age, and sex (see Figure 2).
+Over the 18-month evaluation period, overall
+length of stay and cost increased in both the intervention
+and control units. Cost and hospital length
+of stay are correlated and skewed; the average hospital
+cost per patient in this population was $10,957,
+while 50% of the cases cost less than $6,225. Total
+costs increased 9% on control units and only 3.5%
+on intervention units; however, this difference was
+not statistically significant. Decreasing the rate of
+paralytic ileus by 37% represents potential annual
+cost savings of $830,000.
+In addition, the new practice patterns established
+routine clinical updates and discussions between case
+managers and nursing staff regarding their patients’
+discharge progress. Nurses and case managers initiated
+the enhanced communication equally, with a focus
+on minimizing potential discharge barriers.
+Interviews with patients and the health care team
+after the intervention illustrate the improved culture
+of team collaboration and positive results. For example,
+a 79-year-old man who had a radical nephrectomy
+with a large chevron incision was sent to a
+control unit following surgery because of bed availability.
+There, he didn’t get out of bed often enough
+and a physical therapy order was placed, resulting in
+a recommendation for admission to a skilled nursing
+facility upon discharge. Subsequently, he was transferred
+to one of the intervention units, where he was
+assessed, and the staff nurses and nursing assistants
+soon had him up and ambulating in the hallway.
+Based on this well-documented independent ambulation,
+he was able to go home at discharge.
+A physician commenting on the nursing care
+provided on two of the intervention units stated:
+Having a family member post-op on another
+(control) floor recently, it was very clear that
+ambulation was not a key goal on that floor,
+and therefore my relative only walked if she
+Table 2. Patient Characteristics
+Characteristic Preintervention
+(N = 1,878)
+Postintervention
+(N = 1,748) P Value
+Surgery type, n (%)
+Colorectal
+Urologic
+1,086 (58) 997 (57) NS
+792 (42) 751 (43)
+Sex, n (%)
+Male
+Female
+1,095 (58) 930 (53) 0.002
+783 (42) 818 (47)
+Acuity, n (%)
+Mild
+Moderate
+Severe
+Extreme
+705 (37) 594 (34) 0.02
+672 (36) 678 (39)
+287 (15) 310 (18)
+214 (11) 166 (9)
+Patients who had one surgical procedure, n (%) 1,671 (89) 1,573 (90) NS
+Patients whose surgery was their primary
+procedure, n (%)
+1,540 (82) 1,433 (82) NS
+Median age, years (IQR) 56.2 (43.8–65.1) 56.6 (44.7–65.7) NS
+IQR = interquartile range; NS = not significant.
+68 AJN ? April 2012 ? Vol. 112, No. 4 ajnonline.com
+CULTIVATING QUALITY
+initiated it. . . . I think the program drives
+home the importance to return to function
+for patients, improves their motivation, and—
+as your data show—gets them discharged to
+the right venue in a timely fashion (as opposed
+to getting assessed the day before or
+even of discharge because no one realized
+the patient couldn’t walk).
+This example was typical of comments made
+during staff discussions and rounds, and reflects the
+change in culture that occurred as a result of the
+ambulation project.
+DISCUSSION
+The quality improvement project to increase early ambulation
+at our hospital was successful; nurses were
+more likely to document patient ambulation, and patients
+were less likely to develop paralytic ileus. Moreover,
+the project has given nurses a way to complete
+their patient assessments and document the results in
+measurable terms. Since this new process has been in
+place, physicians, NPs, physical therapists, and other
+members of the patient care team now refer to nursing
+documentation to establish a comprehensive plan of
+care. Accurately measured ambulated distances assist
+case managers in establishing criteria for appropriate
+placements and need for services upon discharge.
+Both anecdotal reports and our own observations
+indicate that the project has also led to stronger
+nurse–patient relationships. As nurses established
+daily goals for postoperative ambulation that were
+consistent with provider orders, they were also able to
+convey more clearly to patients what the expectations
+were for such ambulation, and patients felt more in
+control of their progress. All members of the health
+care team agree that consistent, early, and frequent
+postoperative ambulation improves both patient and
+provider satisfaction and has decreased postsurgical
+paralytic ileus, improved patient progress, and facilitated
+appropriate patient discharges.
+Cost and length of stay did not decrease in the
+postintervention period for patients on the intervention
+units as compared with the control units. Cost
+and length of stay increased throughout the hospital
+as patient acuity increased. In this broadly defined
+population (all patients on the colorectal and urologic
+surgical units), cost and length of stay are skewed and
+highly variable; small changes may be overwhelmed
+by this variability. These findings are not consistent
+with results of small trials of fast-track or ERAS programs,
+where cost4 and length of stay3-5 were positively
+affected. However, we had more patients in
+our sample than did any other study we examined
+of early postoperative ambulation alone or as part
+of a multimodal approach; the sample size and the
+focus on ambulation alone may account for the differences
+in findings.
+We also evaluated the rate of complications, and
+patients on the intervention units were less likely than
+those on the control units to develop paralytic ileus.
+The results of this project suggest that postoperative
+ambulation does affect gut motility, in contrast to the
+findings of Waldhausen and Schirmer.2
+ Using internal
+cost accounting methods, we estimated the average
+incremental total costs (both direct and indirect) for
+a case of paralytic ileus at $5,800, mostly because
+of increased hospital length of stay. If all colorectal
+Table 3. Number and Prevalence of Complications by Care Unit and Time Period
+ Complication
+Control Units Intervention Units
+Preintervention
+(n =1,125)
+Postintervention
+(n = 1,047)
+Preintervention
+(n = 753)
+Postintervention
+(n = 701)
+Any, n (%) 216 (19.2) 184 (17.6) 62 (8.2) 43 (6.1)
+Paralytic ileus, n (%) 148 (13.2) 111 (10.6) 55 (7.3) 32 (4.6)a
+Surgical digestive
+complication, n (%)
+108 (9.6) 95 (9.1) 41 (5.4) 29 (4.1)
+Any digestive
+complication, n (%)
+172 (15.3) 144 (13.7) 59 (7.8) 38 (5.4)
+Cost (median hospital
+cost per patient)
+$7,192 $7,851 $5,082 $5,259
+Length of stay (days) 3.7 3.8 1.7 2
+a P = 0.04.
+ajn@wolterskluwer.com AJN ? April 2012 ? Vol. 112, No. 4 69
+and urologic surgery patients receive the piloted intervention,
+the hospital could save roughly $830,000
+annually by preventing approximately 144 cases of
+paralytic ileus.
+This project evaluation was based on nursing
+documentation of ambulation; however, ambulation
+can be performed and not documented or vice
+versa. Nurses are very aware of the importance of
+accurate charting, and we developed tools to make
+charting the distance ambulated a simple procedure.
+Throughout the program, we never observed nurses
+circumvent the intention of the program by charting
+nonexistent ambulation. On the intervention units,
+nurses documented distance ambulated in feet, and
+on the control units, nurses could chart ambulation
+by distance or time. For the evaluation, both methods
+of nurse charting were accepted as evidence that patient
+ambulation was completed.
+While the preintervention–postintervention study
+design cannot completely control for hospital-wide
+trends, a randomized trial wasn’t within the scope of
+this quality improvement project. The project evaluation
+attempted to control for hospital-wide trends
+by comparing outcomes on intervention units to outcomes
+on control units in both the preintervention
+and postintervention periods. The control units included
+the surgical step-down unit, and acuity was
+higher in the control population. However, most
+colorectal and urologic surgery patients are assigned
+to a postoperative unit based on bed availability. The
+qualitative analysis of the project would have benefited
+from more structure, including structured interviews
+or focus groups and anonymous surveys of
+nurses and other stakeholders.
+This project required no capital investment beyond
+programming time and data analysis, which
+were available at our institution. Nontechnologic
+interventions could be substituted at institutions
+with fewer information technology resources. For
+example, no technology is required to measure distances
+in the patient’s environment and set daily distance
+goals, which can be posted in patient rooms.
+Goal-setting activities to improve patient outcomes,
+such as achieving a certain amount of fluid intake
+per shift or making sure patients turn, cough, and
+breathe deeply are common in nursing practice. The
+ambulation goals can be set in collaboration with
+patients in the same fashion. Depending on each institution’s
+technology infrastructure, other nontechnologic
+interventions could include changing how
+physicians order ambulation, modifying nursing care
+plans, inserting ambulation orders into care organization
+worksheets, changing how ambulation is documented,
+and providing education and reminders to
+nurses by way of staff meetings, posters, and frequent
