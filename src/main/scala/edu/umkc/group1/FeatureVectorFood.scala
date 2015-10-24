@@ -46,6 +46,7 @@ object FeatureVectorFood {
     predictionAndLabel.foreach(x => {
       labelToNumeric.foreach { y => if (y._2 == x) {
         println(y._1)
+        iOSConnector.sendCommandToRobot(y._1,iOSConnector.getSocket())
       }
       }
     })
