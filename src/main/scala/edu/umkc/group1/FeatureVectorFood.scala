@@ -13,7 +13,8 @@ import org.apache.spark.streaming.{Seconds, StreamingContext}
 object FeatureVectorFood {
 
   def main(args: Array[String]) {
-    System.setProperty("hadoop.home.dir", "C:\\Users\\Jordan\\winutils")
+    //System.setProperty("hadoop.home.dir", "C:\\Users\\Jordan\\winutils")
+    System.setProperty("hadoop.home.dir", "F:\\winutils")
     val sparkConf = new SparkConf().setMaster("local[*]").setAppName("FeatureVectorFood").set("spark.driver.memory", "3g").set("spark.executor.memory", "3g")
     val ssc = new StreamingContext(sparkConf, Seconds(2))
     val sc = ssc.sparkContext
