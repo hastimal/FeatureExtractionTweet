@@ -1,0 +1,314 @@
+This clinical practice guideline (CPG) is the product of cohesive interdisciplinary collaboration. The impact of this project merits more than routine attention given the lack of published nursing literature. The Department of Nursing acted as the catalyst to improve the quality of patient care. This initiative resulted in a pivotal change in the standard of care, updating outmoded orthopaedic nursing practices. The most significant change improved the time patients began their first postoperative activity. Dangling the patient on the day of surgery enhanced the benefits of early activity and reduced the time from 16.8 to 6 hr with no adverse patient consequences. The CPG also demonstrated excellent postoperative pain management, realizing pain scores below 4 (0–10 scale) at multiple time points. In addition, the length of stay improved from 4.3 to 2.8 days. The results support the value of implementing a CPG.
+
+Keywords
+Article Content
+Abstract
+This clinical practice guideline (CPG) is the product of cohesive interdisciplinary collaboration. The impact of this project merits more than routine attention given the lack of published nursing literature. The Department of Nursing acted as the catalyst to improve the quality of patient care. This initiative resulted in a pivotal change in the standard of care, updating outmoded orthopaedic nursing practices. The most significant change improved the time patients began their first postoperative activity. Dangling the patient on the day of surgery enhanced the benefits of early activity and reduced the time from 16.8 to 6 hr with no adverse patient consequences. The CPG also demonstrated excellent postoperative pain management, realizing pain scores below 4 (0-10 scale) at multiple time points. In addition, the length of stay improved from 4.3 to 2.8 days. The results support the value of implementing a CPG.
+
+ 
+ 
+Postoperative activity following orthopaedic surgery is a routine intervention initiated by the disciplines of nursing and physical therapy (PT). This intervention varies between hospital settings, typically prompted by a physician's order or by another structure, such as a predetermined approved protocol. When exploring postoperative activity in the general and orthopaedic nursing literature, there is sparse evidence outlining nursing's critical thinking skills associated with decreasing the first postoperative activity from the historical 14-day mark to the more current model of Day 1 or 2 for the joint replacement population. In addition, there were no recent published reports describing a contemporary clinical practice guideline (CPG). As stated by Oermann and Huber (1999),
+
+ 
+Our nursing profession needs to be able to identify, measure, and document nursing's contributions with the same emphasis as that given to other disciplines. Broad outcomes such as morbidity and mortality do not address nursing's contributions to patient care. Yet nursing-sensitive outcomes, such as pain level, symptom management, and self-care, often go unexamined. (p. 42)
+
+ 
+Another nurse researcher, Meridean L. Maas, further suggests that "the emphasis on interdisciplinary care has obscured nursing's need to focus on nursing-sensitive outcomes" (Oermann & Huber, 1999, p. 42).
+
+Purpose
+
+ 
+The strategic purpose of this project was to develop a patient-centered total joint replacement CPG to maximize interdisciplinary collaboration from all levels of staff. Embedded within the CPG's purpose was the goal to attain earlier benefits of mobilization by transforming the practice of initiating activity of the joint replacement patient from postoperative Day 1 to the day of surgery.
+
+Benefits of Mobility
+
+ 
+The benefits of mobility outlined in current nursing textbooks indicate that "Early ambulation is the most significant general nursing measure to prevent postoperative complications" (Lewis, Heitkemper, & Dirksen, 2004, p. 401). The commonly accepted postoperative benefits include a decrease in venous stasis, stimulation of circulation, prevention of deep venous thrombosis/pulmonary embolism, increases in muscle tone, coordination and independence, and improved gastrointestinal, genitourinary and pulmonary functions.
+
+ 
+One of the earliest references addressing change in postoperative activity can be found in the literature dating back to World War II. Dr. Canavarro wrote that prior to his study, routine ambulation began on or about postoperative Days 10-14. He initiated a program in 1946 that changed the practice to postoperative Day 1. Today's clinicians can appreciate the results of Dr. Canavarro's (1946) early ambulation program, including "a definite reduction of all post-operative complications" by approximately 50% as a breakthrough for modern practice (p. 181). Dr. Canavarro reported a rapid return to normal bodily functions with the reduction in medication use, rectal treatments, and nursing care. In addition, he wrote, "there is a saving in time and money and a more rapid turnover of patients per bed per month" (Canavarro, 1946, p. 181).
+
+ 
+An early nursing publication by authors Dumas and Leonard acquaints the reader with an interdisciplinary research project involving nursing, medicine, and psychology that evaluated the consequences of change in time to activity (Fitzpatrick & Wallace, 2006). This study demonstrated a decrease in morbidity and mortality after initiating patient ambulation much sooner after surgery than their previous standard. Similarly, Fitzpatrick and Wallace (2006) reported that the change in time to ambulation from 7 to 10 days to "within hours after the operation" provoked anxiety for both patients and the individuals who cared for them (p. 587). This observation set forth the advent of more structured preprocedural educational programs for patients.
+
+Diagnosis Related Groups
+
+ 
+Another pivotal change can be derived from the introduction of Medicare Diagnosis Related Groups (DRGs) in the late seventies and early eighties. Briefly, DRGs, as a prospective payment plan, defined a specific number of hospital days for patients undergoing specified procedures, and/or a finite amount of reimbursement associated with each DRG. Prior to their introduction, the length of hospitalization for total joint replacement patients was ill-defined, varying widely between hospital and surgeon practices, and ranging from 10 to 21 days. Postoperative activity began slowly with prescribed bed exercises, which may have included the application of an early form of continuous passive motion. The introduction of DRGs provided a stimulus to develop formalized rehabilitation programs to maximize DRG benefits.
+
+The Environment
+
+ 
+The University of California, San Diego Medical Center is an academic medical center located in the southern most aspect of California, immediately adjacent to the border of Mexico. The University serves a diverse population that includes the full spectrum of primary and complex joint revision surgical procedures. Both the city of San Diego and the Medical Center encompass a multicultural population as well as a wide range of socioeconomics.
+
+ 
+The Medical Center is a two-hospital system with a total of 505 beds. Both hospitals admit patients for joint replacement surgery. The clinical staff can "float" to fill staffing needs at either facility, although they have a fixed work location the majority of the time. It was recognized that the CPG would remove significant variation in practices between the hospital sites related to the sharing of staff.
+
+Clinical Practice Guideline
+
+ 
+According to the Institute of Medicine, "Clinical practice guidelines are systematically developed statements to assist practitioner and patient decision about appropriate health care for specific clinical circumstances." In addition, the Joint Commission Manual asserts that hospitals consider CPGs to improve processes by identifying criteria through their appropriate leaders, practitioners, and healthcare professionals (The Joint Commission, 2008). Author Stephen Kim and colleagues performed a literature review in 2003 of 11 clinical pathways concluding: "clinical pathways appear successful in reducing costs and length of stay in the acute care hospital, with no compromise in patient outcomes" (Kim, Losina, Solomon, Wright, & Katz, 2003, p. 69).
+
+ 
+A typical CPG for any specified indication is developed from existing literature, medical research, the clinical competence contained within each healthcare organization, and expert opinion. Nursing expert opinion for this CPG project was derived from National Association of Orthopaedic Nurses (NAON) presentations extracted from the annual Congress and the evidence presented from sessions of the Total Joint Replacement Special Interest Group. For instance, Eva Hyde presented an exhibit at the 2007 NAON annual Congress detailing the development and operational components of a CPG (Hyde, 2007, May). While an excellent resource describing the components of a CPG, it did not include pre- or postnursing sensitive outcomes.
+
+Nursing Needs Assessment
+
+ 
+In addition to developing a CPG, this project explored changes in nursing practices from the current standard of care of PT initiating patient ambulation on postoperative Day 1. The targeted change in nursing practice focused on dangling the patient on the edge of the bed on the day of surgery. Interviews with nursing and PT offered insight into the prelaunch CPG practice. Nursing's reported stance placed focus on the physiologic effects of general anesthesia and the severity of postoperative pain with the assumption that PT was better prepared to deal with appropriate body mechanics and managing any possible complications such as the risk of hip dislocation.
+
+ 
+Dangling is a classic nursing intervention to initiate activity by sitting the patient on the edge of the bed. The primary critical judgment gauges the patient's ability and tolerance to increase or limit the progression of activity. While there is no empirical evidence to indicate when, and for how long, dangling should occur for the postoperative orthopaedic patient, an article by Paula Price, PhD, reported the results of dangling 55 post-coronary artery bypass graft surgery patients between 8 and 15 hr. Dr. Price evaluated the cardiac parameters of heart rate, blood pressure, and oxygen saturation while dangling. Although the change in heart rate was shown to be statistically significant, increasing from a baseline of 86 to 93 bmp while dangling, Dr. Price points out that no results were "clinically significant" because no adverse outcomes were observed (Price, 2006).
+
+ 
+Orthopaedic surgeons and regional anesthesia had autonomously incorporated changes into their respective practices without coordination with other disciplines. This created inconsistencies in the delivery of care as well as variations between the two hospital locations. Neither nursing nor PT was able to direct the maximum advantages of physician changes into their respective practices to fully benefit the patient. Through subsequent discussions, all disciplines involved in delivering care to the joint replacement patient population agreed that the development of a preoperative patient education class and a CPG would benefit the patient and serve as a master plan to cluster interrelated, overlapping clinical actions.
+
+ 
+The nursing staff further revealed apprehension regarding the risk of dislocation postoperatively and, in particular, on the day of surgery. In general, orthopaedic surgeons are not as concerned about this risk as compared to previous years because of continual improvements in implant design and the surgical procedure. Therefore, the surgeons at the medical center agreed to work in partnership to enhance nursing knowledge of the decreasing rate of hip and knee dislocations in order to facilitate the initiation of patient activity on the day of surgery.
+
+Interdisciplinary Communication
+
+ 
+Table 1 outlines the disciplines involved in the development of the structure and clinical processes. The number of work sessions included interdisciplinary group activities, one-on-one meetings, education, and the development of the computerized physician order entry. Nursing representation was present at each of these sessions to fulfill the role of patient advocate. The project had full support of the nurse managers, chief nursing officer, service line officer, and senior management team.
+
+ 
+Table 1 - Click to enlarge in new window		Table 1. Interdisciplinary Development Sessions
+Pain Management
+
+ 
+Over the past three decades, patients have received postoperative pain management in the form of administration of narcotics such as Morphine Sulfate, Dilaudid, or other potent opioids. Before initiating any mobilization, these powerful narcotics can be administered by means of a single injection or intravenous/patient controlled analgesia (IV/PCA). Narcotic complications are well published in the today's literature. The opioids can also cause confusion and forgetfulness. These effects may result in the joint replacement patient failing to adhere to hip and fall precautions. In light of the limited nursing literature or nursing research examining these issues, the interdisciplinary steering committee developing the CPG took these postoperative challenges under consideration when electing to begin activity on the day of surgery. The method of measuring pain for the CPG used the well-established scale of a patient self-report of "0" to "10." A score of "0" was interpreted as no pain, while a patient self-report of "10" was interpreted as the worst possible pain.
+
+Continuous Infusion Nerve Blocks
+
+ 
+Pain management is specifically a measurable nursing-sensitive outcome particularly with the introduction of continuous infusion nerve block (CINB) methodologies.
+
+ 
+Approximately 1 year prior to the discussion of a CPG, the Department of Regional Anesthesia launched a continuous infusion local anesthetic nerve block program (CINB). CINB began informally on a case-by-case patient basis to familiarize surgeons with the technique. The pain management program included CINBs, and at that time, the traditional method of managing breakthrough pain using IV/PCA. As CINB is not intended to eliminate all pain, a breakthrough method had to remain available in conjunction with the nerve block to achieve all the benefits of early activity. The logic behind the utilization of CINB and IV/PCA was twofold: to develop protocols with suitable anesthetic concentration and dosages to achieve an acceptable level of pain/pain suppression, and to balance it with an acceptable level of decrease in motor and sensory function in this patient population while not increasing the fall risk.
+
+ 
+As the interdisciplinary team evaluated the prelaunch CPG, the patient needs assessment, and the gap analysis in staff knowledge, regional anesthesia continued to refine techniques in local anesthetic specifications. In 2007, Brian Ilfeld, MD, presented the results of a research project at the annual University of California, San Diego BONES Symposium. Results of CINBs for shoulder procedures compared ropivacaine 0.2% to IV opioids, demonstrating a decrease in nausea from 49% to 10% (p < .05%), and vomiting from 27% to 7% (Ilfeld, 2007). The CPG factored the increasing success of CINB pain management program into the master plan.
+
+ 
+During the interdisciplinary planning meetings, the clinical team decided to discontinue the use of IV/PCA whenever possible by building a multimodal oral pain management program. Subsequently, pain management consisted of CINB, a long-acting around-the-clock oral narcotic, a breakthrough pain oral narcotic available every 4 hr, and unless contraindicated, an around-the-clock Cox-2 inhibitor and acetaminophen. Of note, immediately postoperatively patients had available a small dose, limited IV push opioid for breakthrough pain until they were tolerating oral fluids and achieving a pain score of 4 or less (<=4) with oral as needed management. At the 2006 annual NAON Congress, Pam Cupec, MS, RN, from University of Pittsburgh Medical Center, presented a paper, "What a Relief!! Use of Nerve Blocks in Orthopedic Surgery," reporting their hospital's procedure utilizing [lumbar] plexus catheter nerve blocks. The catheters were turned off early in the morning to accommodate physician rounds and to "attend therapy and safety considerations. Nerve blocks [were] turned back on after the first morning therapy session" (Cupec, 2006).
+
+ 
+The standard of care for the CPG project consisted of a continuous infusion with no scheduled "off" periods unless the patient's assessment demonstrated an overall loss of muscle and/or sensory function of the extremity. Under total muscle or sensory block, at the request of the nurse, the anesthesiologist ordered the infusion stopped for 1 hr, at which time the nurse reassessed the patient. With the return of motor sensory function, the pump was turned back on. To prevent potential events such as a patient fall or the loss of sensation that could lead to skin pressure injury, a motor and sensory assessment was performed every 4 hr and when anticipating mobilization.
+
+Methods
+
+ 
+The CPG is a comprehensive, multidisciplinary team effort conducted as an observational, quality improvement project. Approval was reviewed and approved from the internal review board and a waiver of individual informed consent was obtained.
+
+Patient Questionnaire
+
+ 
+The Medical Center participates in Press Ganey customer service evaluations. Surveys, sent to patients' homes, ask for their perception of their recent experience. The Press Ganey Company then collects the anonymous surveys and analyzes the data for areas of improvement (Press Ganey Associates, Inc., 2008). From these blinded Press Ganey questionnaires, it was not possible to draw conclusions on relevant issues that were patient population specific. The authors could not use these customer satisfaction surveys to deduce exactly what behaviors needed modification to improve the quality of care specific to the joint replacement population. Therefore, a quality improvement questionnaire was developed as a one-on-one patient interview tool that would also serve as a patient needs assessment.
+
+ 
+An interview process was developed and administered on the day of hospital discharge. Individuals were asked a series of 19 questions designed to elicit detailed feedback. A random sampling of patients undergoing elective primary hip or knee replacement, hip resurfacing, or unicondylar knee replacement was divided into two groups for this project (see Figure 1). The prelaunch, or baseline group, included joint replacement patients prior to the existence of the CPG. The responses from this group served as a needs assessment in the development of the CPG and the preoperative patient education class content. The prelaunch group subjectively described their hospital experience and highlighted the aspects of care most salient for orthopaedic surgical patients and their families. The second sampling, or postlaunch group, was composed of patients having joint replacement surgery after the implementation of the CPG.
+
+ 
+Figure 1 - Click to enlarge in new window		Figure 1. The distribution of surgical procedures that included primary hip and knee replacements, hip resurfacing, and unicondylar knee replacement. No revision or bilateral procedures were included. CPG = Clinical Practice Guideline.
+ 
+Utilizing a standard set of questions to stimulate a dialogue, an independent nurse interviewer, not providing direct patient care, spoke with patients on the day of discharge. Questions explored the patient's perception of communication between nurse, surgeon, case manager, and physical and occupational therapists. Other questions assessed the quality of pain management, readiness for discharge, and the capacity to self-administer an injectable low-molecular-weight heparin for the prevention of deep venous thrombosis at home. During the first 3 months before and after the implementation of the CPG, patient interviews were randomly conducted using the same questions to gauge changes in quality. To capture the significance of the effect of the CPG, it was critical to remeasure patient satisfaction as well as evaluate effectiveness and efficiency of clinical activities.
+
+Patient Education
+
+ 
+After reviewing charts, the hospital-wide Press Ganey survey data and the results of individual patient and nurse interviews, the interdisciplinary team confirmed their initial impression that there was room for improvement. The interviews enabled the team to draw upon the unique relationship that exists between the patient and the nurse and speak directly to the gaps in service, indicating where the quality of care could be improved. This insight, combined with the concepts presented in the Dumas publication regarding anxiety exhibited by both the patient and caregivers when making changes in practice, provided the nursing team with the framework of change theory (Oermann & Huber, 1999).
+
+ 
+As a result, the next task was to expand the scope of the preoperative patient education program. Because of the predictability of the treatment course and expected outcomes, a standardized education curriculum was clearly constructed for total joint replacement surgeries (Prouty et al., 2006). Educating patients and their families enables them to actively participate in their care and rehabilitation, to assist in goal-setting, and to help to evaluate their progress. In addition to furnishing patients with a sense of control via anticipatory guidance, preoperative education has been shown to contribute to a decrease in length of stay and thus reduced hospital costs (Roach, Tremblay, & Bowers, 1995).
+
+ 
+The class provided a means for patients to have their questions answered as well as clarify any misconceptions. Interaction with others having the same surgery helped to shape realistic expectations of the procedure and recovery period. The networking also aided family members in determining their role as a caregiver in the patient's recovery (Prouty et al., 2006). A folder of written handouts afforded patients the opportunity to review content covered in the class at a later time.
+
+ 
+Nursing, partnering with PT, occupational therapy, and case management, began to refine the preoperative patient education class to include the changes in pain management and in postoperative activity of dangling the patient on the day of surgery. The 90-minute class also covered other topics such as preparing the home for a safe recovery. A physical therapist demonstrated exercises to be performed while in the hospital and after discharge. A variety of medical equipment was displayed including urinary catheters, incentive spirometer, intermittent compression stockings, a walker, and a long-handled grabber. While instructors discussed each piece's function and proper use, participants were encouraged to handle and practice using the devices.
+
+ 
+Another crucial element added to the class was instruction on self-injecting of a low-molecular-weight heparin. A demonstration by the nurse, with an improvised return demonstration by the patient, followed a discussion of deep venous thrombosis prophylaxis. There were three main goals with this key component of the class: (1) to decrease patient anxiety at the time of hospital discharge informing them ahead of time that they would be on an injectable medication at home; (2) to explain the importance of maintaining the regimen at home; and (3) to show how to physically perform the injection.
+
+ 
+The patient education class was attended by a broad spectrum of patients including those who spoke English as a second language. Primary languages of participants other than English included Spanish, Chinese, Vietnamese, and Russian. In the majority of sessions, a family member attended to interpret for the patient. On all other occasions, the Patient Education Coordinator was able to locate a certified interpreter for the patient. The drafts of the CPG were altered into a version known as the Patient Friendly Guideline. This easy-to-read, detailed account of the expected hospital course was available during all phases of preoperative appointments and inpatient stay.
+
+ 
+With knowledge, planning, and patient education solidified, the team continued to collaborate and incorporate the new best practices into their routines. The team also communicated these practices with the patient using similar language. This ensured that the patient would receive consistent information from all disciplines throughout the continuum of care.
+
+Nursing Education
+
+ 
+Frontline staff interviews demonstrated that the majority of nurses lacked comprehensive, up-to-date total joint replacement specific education or were relying on education gained 10 or more years ago. In contrast, the CPG required using updated nursing standards, physician changes in surgical techniques and prostheses, and anesthesiology changes in pain management. Through the nursing discussions, barriers to comfort with the proposed changes in the nursing standard of care centered around dangling the patient on the day of surgery, tied to the implications of managing postoperative nausea, vomiting, pain, light headedness, and risk of dislocation. To assist the nursing staff in overcoming these concerns, an educational course was developed in the form of a 3-hr, required attendance program. The didactics were presented by the orthopaedic surgeons, nurse practitioners, and nurse educators. Physical and occupational therapists performed a one-on-one bedside scenario competency to reinforce appropriate assessments, along with a return demonstration of dangling the patient on the edge of the bed, and transferring the patient from bed to a chair.
+
+CPG Implementation
+
+ 
+A final CPG document and corresponding physician order set were launched in April 2008. The CPG was initially developed in paper format outlining the clinical, step-by-step interventions. In addition, the physician order set was integrated into the facilities' computerized physician order entry system (See Appendix A).
+
+Results
+
+Patient Needs Assessment
+
+ 
+Patient demographics with the results of the patient interview questionnaire are shown in Table 2 for both CPG prelaunch (baseline) and postlaunch. There was a slight increase in the average age of the postlaunch group and in the number of hip resurfacing procedures. This increase reflects a surgeon change within the joint replacement service line as well as the randomness of patient interviews.
+
+ 
+Table 2 - Click to enlarge in new window		Table 2. Patient Interview Demographics
+ 
+Subjective answers were reported using a Likert-type scale and are available in Tables 3 and 4. The Likert-type questionnaire indicated levels of satisfaction with each statement by choosing one of five options: a rating of "very poor" equals one (1), "poor" equals two (2), "fair" equals three (3), "good" equals four (4), and "very good" equals five (5). This rating system mimics the wording from the Press Ganey surveys used by the hospital for customer service feedback. The respondents' scores were added together with an arithmetic average obtained for each statement.
+
+ 
+Table 3 - Click to enlarge in new window		Table 3. Patient Interview Questions Evaluating Communication With a Possible Score of 1 to 5
+ 
+Table 4 - Click to enlarge in new window		Table 4. Patient Self-Care Question Results, Including Pain Control With a Possible Score of 1-5
+ 
+There was a mix of results from the pre- to post-CPG launch questionnaire regarding communication between the patient and the clinical team (see Table 3). Nursing demonstrated the most improvement in their explanations to the patient. The overall team communications, however, did not improve.
+
+ 
+There were several interview questions intended to ascertain the patient's readiness for discharge (see Table 4). The prelaunch CPG results uncovered the deficits that were later targeted to improve patient outcomes. In addition, the CPG set forth the expectation that the inpatient hospital patient teaching would begin on postoperative Day 1. Postlaunch of the CPG demonstrated improvement of instructions given on self-injection.
+
+ 
+Another question evaluated the patient's assessment of pain management. This topic was also revised for the preoperative patient education class to emphasize the use of nerve blocks and the multimodal methodology of pain management. The instructors of the class continued to offer instruction on the use of IV/PCA and epidural pain management for the atypical patient who was not a candidate for CINBs.
+
+ 
+The ability to manage the patients' pain adequately showed improvement. An increase in this score was important because sufficient pain control while an inpatient was necessary for patients to actively participate in all forms of rehabilitation. It was also vital to their self-care after discharge. Of all the patient self-care questions, pain control improved the most.
+
+Clinical Practice Guideline Audits
+
+ 
+Table 5 illustrates patient demographics, attendance at the preoperative patient education class, and the length of hospital stay. Patient activity was randomly audited and may, or may not, be inclusive of patients in the patient questionnaire survey.
+
+ 
+Table 5 - Click to enlarge in new window		Table 5. Demographics of Patients Included in Chart Audits
+ 
+In the postlaunch CPG group, one patient with a history of GERD experienced a complication of postoperative ileus. The patient underwent a total knee replacement, received a nerve block, and dangled on the day of surgery; the patient's length of stay was 9 days. A second patient underwent a total hip replacement, received a nerve block, dangled on the day of surgery, and then demonstrated hypotension and hyponatremia on postoperative Day 1. The patient was transferred to a higher acuity unit at this time and remained in the hospital for 5 days. Both patients' data were reported in the primary analysis, but in a second analysis of length of hospital stay they were reported as an outlier, reducing the overall length of stay from 3.1 to 2.8 days as shown in Table 5. A third patient remained in the hospital for 5 days without complication and was therefore included in reported results of both analyses.
+
+ 
+Table 6 outlines the perceived barriers to dangling on the day of surgery as presented by nursing and PT. It illustrates the number of patients who experienced either nausea or vomiting. The audit data had to contain clear documentation that the problem was resolved or worsened. These findings are reported to outline the incidence of the perceived barriers to dangling the patient on the day of surgery.
+
+ 
+Table 6 - Click to enlarge in new window		Table 6. Incidence of Perceived Barriers to Dangling on the Day of Surgery
+ 
+Additional auditing revealed that 7 of the 30 postlaunch patients (23%) did not receive prophylactic treatment of nausea during surgery. Three of the 30 postlaunch CPG patients (1%) received medication for nausea in the postoperative care unit (PACU). Of the eight patients on the unit complaining of postoperative nausea, two patients were treated for vomiting (6%). These two patients were not dangled on the day of surgery.
+
+ 
+In an earlier era, the presence of drains was considered a physician restriction to activity until such time as the drain was discontinued. In this contemporary time, some large medical centers have eliminated the use of drains altogether. However, in this academic center, the drain remains a consideration on a case-by-case basis. It does not, however, obstruct the patient from dangling on the day of surgery.
+
+ 
+Table 7 reflects postlaunch findings of pain scores postoperatively of patients who were dangled on the day of surgery. Postlaunch assessments took place: (1) upon discharge from the PACU; (2) on admission to unit from PACU; (3) prior to dangling the patient; (4) reassessment after dangling the patient; and (5) PT assessed pain on postoperative Day 1 before beginning ambulation. Of a total of 25 patients, 19 patients dangled, 4 patients were admitted to units such as telemetry and intermediate care unit, and 2 other patients had nausea and vomiting, The remaining five patients in the postlaunch auditing had incomplete data and were not included in Table 7. Thus, a total of 30 patients were utilized in the outcomes. As the dangling activity came out of the development of the CPG, there were no prelaunch CPG dangling pain scores available for auditing. For outcome comparison, there is a single pain score shown in the prelaunch CPG group as taken at the time the patient was admitted to the orthopaedic unit.
+
+ 
+Table 7 - Click to enlarge in new window		Table 7. Pain Assessment Scores at Five Different Time Points With a Possible Score of "0" to "10"
+ 
+These scores represented patients achieving safe and acceptable levels for pain management as they were below a score of 4 (<=4), the level that necessitates offering a pain management intervention at this institution. Furthermore, even with the small sample size of 30, it demonstrates that pain was not a barrier to the change in the nursing standard of care. The nursing results of quality pain management were supported by the results of the patient satisfaction interview score previously described in Table 4.
+
+ 
+Table 8 outlines the time frame for patients who dangled on the day of surgery and the time frame patients ambulated with PT. To be included in the calculation of the average number of hours to the first activity, two time points were required. They consisted of the time the patient was transferred from the PACU to the orthopaedic unit, and the time the nurse dangled the patient or the time PT ambulated the patient.
+
+ 
+Table 8 - Click to enlarge in new window		Table 8. Time Frames for Patients Dangled on the Day of Surgery and for Patients Ambulated With Physical Therapy
+ 
+Nineteen (79%) patients demonstrated an average time of 6 hr after transfer from the PACU to the time of the first dangling (see Table 8). This demonstrates a 38% reduction in time to the first mobilization of the patient. The majority, 63%, of the patients were dangled by the night shift. The first time to ambulation by PT on postoperative Day 1 averaged 16 hr.
+
+ 
+Outcomes: In summary, launching a CPG established the following:
+
+ 
+* Improvement in the nursing standard of care by eliminating barriers to change.
+
+ 
+* Patient mobilization by nursing within 6 hr posttransfer from the PACU.
+
+ 
+* Ambulation by PT pre- and postlaunch CPG of 16 hr posttransfer from PACU.
+
+ 
+* Reduction in length of hospital stays from 4.3 to 2.8 days.
+
+ 
+* Elimination of IV/PCA with successful CINB and multimodal pain management program.
+
+ 
+* Consistent improvement in pain management below a pain score of 4 (4):
+
+ 
+* At the time of PACU discharge (pain score 2.1)
+
+ 
+* Upon admission to the orthopaedic unit from PACU (pain score: 3.3)
+
+ 
+* Prior to the intervention of nursing dangling the patient on the day of surgery (pain score: 2.9)
+
+ 
+* Reassessment following the intervention of dangling (pain score: 3.3)
+
+ 
+* Assessment by PT prior to ambulation on postoperative Day 1 (pain score: 3.3).
+
+ 
+* Patient satisfaction interview scores support improvements in pain management from a prelaunch CPG score of 3.5 to postlaunch CPG score of 4.2.
+
+ 
+* Areas to be addressed include improvement in interdisciplinary communication as reported from patient interviews.
+
+ 
+* The benefits of patient education demonstrated improvement in:
+
+ 
+* Preparedness to care for self
+
+ 
+* Instruction in low-molecular-weight heparin self-injection
+
+ 
+* Helpfulness of class
+
+ 
+* Patients' understanding RN discussion of the care plan
+
+ 
+ 
+
+The outcomes of the CPG project support the claim that communications are complex and essential for effective decision-making and continual cooperative partnerships. This offers growth challenges, yet also remarkable opportunities.
+
+ 
+Through interviews, education, and the development of a new standard of care by means of a CPG, patients were mobilized on the day of surgery in a safe manner. Of the patients who were dangled, no secondary adverse events occurred when initiating the patient's first postoperative activity within 6 hr of surgery.
+
+ 
+Two of the patients audited on the CPG experienced vomiting. Of these two patients, one was not treated prophylactically in the operating room. Neither of these patients was dangled. The limited side effects of nausea and vomiting may be attributed to the influence of CINB. One published report supports these events. It states that a decrease in the use of systemic analgesia coincides with a decreased incidence of nausea and vomiting (Boyd, Eastwood, Kalynych, & McDonough, 2006).
+
+Pain Management
+
+ 
+The decrease in pain scores below a score of 4 (<=4) provided positive attributes and basis for an expanded study of the benefits associated with initiating activity within hours following surgery. Even with more aggressive activity led by PT on postoperative Day 1, the pain scores remained less than 4. Since data were collected for the purpose of quality improvement, not research, the authors are not suggesting that this is a statistically significant improvement. Rather, the authors are noting that CINB, as an intervention, can be associated with improvements not only in pain management, but may also contribute to improved postoperative activity.
+
+Preoperative Patient Education
+
+ 
+Increasing the number of offerings of preoperative patient education gave more patients an opportunity to attend the classes. This education proactively addressed the powers of collaboration and patient's participation in self-care.
+
+Effects of Physician Practice Changes
+
+ 
+Advancements in physician practices were not transparent to nursing or seamless to the remainder of the clinical departments. Next to the patient, nursing would be the most affected by these changes. The patient and nursing questionnaires, in conjunction with interdisciplinary meetings, served as a needs assessment, emphasizing the value of investing in specialty training to develop proficiency and alignment with physician practice changes. Specialty training would also create familiarity with new technology including the rapid uptake of CINBs within the organization.
+
+Discussion
+
+ 
+According to a recent article published by the Journal of Bone and Joint Surgery, "The benefits of total joint replacement are the most dramatic of any contemporary surgical procedures" (Katz, Wright, & Losina, 2004). Achieving such benefits requires synchronized functions across multiple disciplines. A patient-focused, total joint replacement CPG was developed to maximize interdisciplinary collaboration. Through careful planning, data-mining, and ongoing monitoring, positive outcomes have been recognized from the early launch CPG data. The project significantly changed the paradigms governing outmoded nursing practices, driving improvements in patient care and nursing outcomes.
+
+ 
+Although some of the data showed no change from pre- to postlaunch CPG, these findings are an effective evaluation to guide the next generation of this organization's CPG with improvements. While advancements in clinical practice outcomes are traditionally measured in terms such as morbidity and mortality, today's marketplace also mandates nontraditional outcomes to include patient satisfaction and interdisciplinary communication. To gauge gaps in customer satisfaction in a highly technological, potentially high-risk environment, patients were encouraged by the authors to participate in one-on-one interviews. The patient interviews generated insight into the ripple effects of a large integrated hospital process. The interdisciplinary team used these findings to drive change to improve interactions between clinical and system processes, including the development of a Patient Friendly Guideline.
+
+ 
+Advanced practice nurses recognized an opportunity to leverage the utilization of CINB to support initiating patient activity on the day of surgery-in effect, altering the nursing standard of care. Postoperative pain management requires a balance between pain relief and unwanted side effects. It is worth mentioning to readers who are not familiar with CINB that CINB serves to improve pain management while eliminating an abundance, or overabundance, of injectable opioids and their side effects. And lastly, the use of the CPG itself may have affected positive patient outcomes with respect to pain management. Lack of quality postoperative pain management has a wide range of detrimental acute effects on both traditional and nontraditional outcomes.
+
+ 
+While there is no empirical nursing evidence to indicate who, when, how, or how long dangling should occur in postoperative orthopaedic patients, the preliminary results of monitoring this practice demonstrates the capacity to broaden this tradition. This project embodied Jeffrey Uppington's concise statement: "They can be of benefit when there is uncertainty about care, can help overturn outmoded practices and provide reassurances of the appropriateness of clinical actions and improve the consistency of care" (Uppington, 2006, p. 13). Adding to Uppington's statement, the recommendations from NAON add further clarification to the use of guidelines, stating: "guidelines must be individualized by the professional nurse for each patient and clinical situation" (Whittington, Selman, & Holmes, 2001). Practices, processes, and the initial model CPG developed for this project will be updated to reflect findings from internal monitoring and changes in the care environment. Today's healthcare settings are challenged by steady introductions of expanded technologies and treatments. Programs such as CPGs are critical for helping an organization improve competencies needed to coordinate safe practices and efficiencies in care. Initiating activity to within hours of surgery benchmarks this CPG as a dynamic evolution and a contribution to quality improvement.
+
+Implications for Nursing
+
+ 
+The central component to quality improvement is acting on what is learned and is a hallmark of learning organizations (Institute of Medicine, 2001). However, findings from quality improvement projects tied with orthopaedic nursing standards of care are seldom published, resulting in a loss of knowledge to the remainder of the profession. Much can be gained through examination of one's own organization or learned from the exchange of ideas and experiences through professional organizations. This academic medical center investigated the existing literature on CPGs and early mobilization, utilizing the little evidence they found as a foundation for the project. As a next step, the authors completed an internal needs assessment of both nursing staff and patients. The insight gained guided the direction and advancement of the institution's standards and practices for orthopaedic nurses. Because of limited solid evidence describing the structure or methods used, the authors developed their own early mobilization process by merging the external evidence with internal assessment results. Nurses can use this project as a template to change their standard of care to produce clinical outcomes or the development of a CPG (see Figure 2). The solicitation of nursing's input about aspects of their daily practice uncovered and challenged "urban-legend" reasoning behind outmoded practices. In this instance, it served to promote change from a more conservative, passive role to one in which nurses and patients were active participants. The results of this project support earlier models of CPGs and patient mobilization findings throughout the past 60 years.
