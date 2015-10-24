@@ -1,3 +1,5 @@
+package edu.umkc.group1
+
 import java.io.{IOException, PrintStream}
 import java.net.{InetAddress, Socket}
 
